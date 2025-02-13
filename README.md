@@ -18,3 +18,4 @@
 - [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) deep dive by Dan Abramov (March 2019)
 - [Before you memo](https://overreacted.io/before-you-memo/) by Dan Abramov (February 2021)
 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders) blog series by Alex Sidorenko (2021)
+- [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render) by Kent C. Dodds (2019)
