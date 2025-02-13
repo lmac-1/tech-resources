@@ -15,4 +15,5 @@
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) Observations across the software engineering industry.
 
 ### React articles
-- [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) by Dan Abramov
+- [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) deep dive by Dan Abramov (March 2019)
+- [Before you memo](https://overreacted.io/before-you-memo/) by Dan Abramov (February 2021)
