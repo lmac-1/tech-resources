@@ -1,4 +1,4 @@
-# Useful technology blogs and resources
+# Useful technology blogs, articles and resources
 
 ### Blogs/Tutorials
 - [overreacted](https://overreacted.io/) Personal blog of [Dan Abramov](https://bsky.app/profile/danabra.mov)
@@ -13,3 +13,6 @@
 
 ### General
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) Observations across the software engineering industry.
+
+### React articles
+- [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) by Dan Abramov
